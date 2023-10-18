@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ## 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height:167px" align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luisnisc&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height:171px" align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luisnisc&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
