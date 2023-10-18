@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on little personal projects
 - 🌱 I’m currently learning Web Developing
-- ```md
-| `radical` ![radical][radical] 
-```
+
 
 <!---
 - 👯 I’m looking to collaborate on ...
