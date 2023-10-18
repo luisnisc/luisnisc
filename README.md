@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 <a target="_blank" href="https://tailwindcss.com/">![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)</a>
 <a target="_blank" href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)</a>
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Projects
 
