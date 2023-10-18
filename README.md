@@ -43,5 +43,6 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - Portfolio: [Your Portfolio Website](https://www.yourwebsite.com)
 - Email: luisnisc30mayo2005@gmail.com
+- Instagram: Lu1snisc
 
 Feel free to reach out if you want to collaborate, have a question, or just want to connect and chat about tech! 😊
