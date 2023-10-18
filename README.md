@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ## 💻 Operating Systems
 
-<a href="https://www.microsoft.com/es-es/software-download/windows10"> <img align="left" alt="Windows 10" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;"/>
-<a href="https://www.ubuntu.com"><img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/> <br>
+<a href="https://www.microsoft.com/es-es/software-download/windows10"> <img align="center" alt="Windows 10" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;"/>
+<a href="https://www.ubuntu.com"><img align="center" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/> <br>
 
 ## 🌟 GitHub Stats
 
