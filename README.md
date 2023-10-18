@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on little personal projects
 - 🌱 I’m currently learning Web Developing
 - ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 | `radical` ![radical][radical] 
 ```
 
