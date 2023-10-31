@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ## 💼 Projects
 
-- [Project 1](Link to Project 1) - Brief description of the project.
+- Apuntes - is a small project in which I developed the frontend, the goal of this project is to create a web application where students can upload their notes and exam dates, so it can be used both as a notebook and as a calendar, so students can improve their results by having a better organization.
 - [Project 2](Link to Project 2) - Brief description of the project.
 - [Project 3](Link to Project 3) - Brief description of the project.
 
