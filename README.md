@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ## 💼 Projects
 
-- Apuntes - is a small project in which I developed the frontend part, the goal of this project is to create a web application where students can upload their notes and exam dates
+- LearnZone - is a small project in which I developed the frontend part, the goal of this project is to create a web application where students can upload their notes and exam dates
 - [Project 2](Link to Project 2) - Brief description of the project.
 - [Project 3](Link to Project 3) - Brief description of the project.
 
