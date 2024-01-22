@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 <a target="_blank" href="https://tailwindcss.com/">![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)</a>
 <a target="_blank" href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+<a target="_blank" href="https://www.figma.com/">![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)</a>
 <!--<a target="_blank" href="https://www.docker.com/">![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</a>-->
 <!--<a target="_blank" href="https://vuejs.org/">![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)</a>-->
 ## 💼 Projects
