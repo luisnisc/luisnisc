@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 - LearnZone - is a small project in which I developed the frontend part, the goal of this project is to create a web application where students can upload their notes and exam dates
 - <a href="https://wave-tasker.vercel.app">Wave-Tasker</a> - Web application that helps you manage your time and tasks in the most optimal way.
-- <a href="https://react-learnisc.vercel.app>React-Learn</a> - React Learn IS a simple web Page, where the new developers can learn de most importants features of React and how can they use it
+- <a href="https://react-learnisc.vercel.app">React-Learn</a> - React Learn IS a simple web Page, where the new developers can learn de most importants features of React and how can they use it
 
 ## 💻 Operating Systems
 
