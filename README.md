@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 - <a href="https://wave-tasker.vercel.app">Wave-Tasker</a> - Web application that helps you manage your time and tasks in the most optimal way.
 - <a href="https://react-learnisc.vercel.app">React-Learn</a> - React Learn IS a simple web Page, where the new developers can learn de most importants features of React and how can they use it
 
-You can find all these project in my GitHub repositories, there Will can see the code and you can suggest me to improve my projects, and help each other to improve our programming skills
+You can find all these project in my GitHub repositories, there Will can see the code and you can suggest me to improve my projects, and help each other to improve our programming skills 
 
 ## 💻 Operating Systems
 
