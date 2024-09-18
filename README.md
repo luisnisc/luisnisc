@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Class Project - Is a little project, It's a small project where I am developing Full-Stack skills, but my main focus is on the Frontend part.
+- 🔭 I’m currently thinking about what will my next proyect
 - 🌱 I’m currently learning more about advanced front-end frameworks and UI/UX design
 - 👯 I’m looking to collaborate on open-source projects and exciting web development ventures
 - 🤔 I’m interested in full-stack development, responsive web design, and artificial intelligence
