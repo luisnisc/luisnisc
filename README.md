@@ -1,6 +1,6 @@
 # Hello, I'm Luis 👋
 
-Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast based in Spain. With a strong passion for creating innovative solutions, I specialize in building dynamic and user-friendly web applications. I have experience working with a variety of technologies, including Angular, React, Astro, Vue, TailwindCSS, Bootstrap, JavaScript, HTML, and CSS.
+Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast based in Spain. With a strong passion for creating innovative solutions, I specialize in building dynamic and user-friendly web applications. I have experience working with a variety of technologies, including Angular, React, Astro, TailwindCSS, Bootstrap, JavaScript, HTML, and CSS.
 
 ## 🚀 About Me
 
