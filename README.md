@@ -47,7 +47,7 @@ You can find all these project in my GitHub repositories, there Will can see the
 ## WakaTime Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisnisc)
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/luisnisc/luisnisc"
   alt="Avinal WakaTime Activity"
 />
 ## 📫 Let's Connect
