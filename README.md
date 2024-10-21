@@ -43,6 +43,9 @@ You can find all these project in my GitHub repositories, there Will can see the
 ## 🌟 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height:171px" align="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luisnisc&theme=radical&hide=css,html&langs_count=8&layout=compact" /></a> 
+
+## WakaTime Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisnisc)
 ## 📫 Let's Connect
 
 - LinkedIn: [Nisc-Profile](https://www.linkedin.com/in/luis-navascues-2b9545257)
