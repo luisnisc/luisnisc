@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 
 ### Frontend
 <a href="https://angular.io/">![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)</a>
-<a href="https://vuejs.org/">![Vue](https://img.shields.io/badge/-Vue-DD0031?style=flat-square&logo=vue&logoColor=white)</a>
+<a href="https://vuejs.org/">![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)</a>
 <a target="_blank" href="https://es.react.dev/">![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)</a>
 <a target="_blank" href="https://astro.build/">![Astro](https://img.shields.io/badge/-Astro-FF5733?style=flat-square&logo=astro&logoColor=white)</a>
 <a target="_blank" href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</a>
