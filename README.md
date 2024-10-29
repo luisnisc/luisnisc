@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a dedicated web developer and tech enthusiast 
 <a target="_blank" href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)</a>
 
 ### Backend
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
