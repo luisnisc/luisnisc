@@ -45,7 +45,7 @@ You can find all these project in my GitHub repositories, there Will can see the
 
 <a href="https://www.microsoft.com/es-es/software-download/windows10"> <img align="center" alt="Windows 10" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
-<a href="https://www.ubuntu.com"><img align="center" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/></a> <br>
+<a href="https://www.ubuntu.com"><img align="center" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px; color:white;"/></a> <br>
 
 
 ## 🌟 GitHub Stats
