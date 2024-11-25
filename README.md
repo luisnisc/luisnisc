@@ -54,7 +54,6 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 ## 💻 Operating Systems
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" width="24" height="24">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-white.svg" alt="Ubuntu" width="24" height="24">
 
 ---
 
