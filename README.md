@@ -66,6 +66,7 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![LOSEARDES77's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&theme=dark&rank_icon=percentile)
 <!--END_SECTION:waka-->
 
 ---
