@@ -65,7 +65,6 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 
 ## 📊 Weekly Development Breakdown
 
-![Descripción de la imagen](https://wakatime.com/share/@2f9bf33f-988d-4842-a84d-c66382571e3d/2cbfef56-86b5-4e31-8c11-f0462961de46.svg)
 
 ---
 
