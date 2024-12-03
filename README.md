@@ -60,7 +60,9 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)
-
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisnisc" alt="luisnisc" height= 175/></a>
+</p>
 ---
 
 ## 📊 Weekly Development Breakdown
