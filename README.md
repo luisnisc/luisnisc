@@ -69,9 +69,9 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Nisc-Profile](https://www.linkedin.com/in/luis-navascues-2b9545257)
+- <a href="[https://www.linkedin.com/in/luis/](https://www.linkedin.com/in/luis-navascues-2b9545257/?locale=en_US)" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - **Portfolio**: [Nisc-Portfolio](https://nisc-portfolio.vercel.app)
 - **Email**: luisnisc30mayo2005@gmail.com
-- **Instagram**: Lu1snisc
+- <a href="[https://www.instagram.com/lu1snisc/](https://www.instagram.com/lu1snisc" target="_blank"><img src="https://img.shields.io/badge/Instagram-0e76a8?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 Feel free to reach out for collaboration, questions, or just to chat about tech! 😊
