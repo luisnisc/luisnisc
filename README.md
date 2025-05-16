@@ -62,6 +62,7 @@ Check out my GitHub repositories for more projects and let's improve our coding 
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Wakatime Stats](https://wakatime.com/share/@luisnisc.svg)
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
