@@ -1,18 +1,25 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 👨‍💻 Luis Navascués – Frontend Web Developer
 
-## 👋 Hello, I'm Luis!
-
-I'm a passionate web developer and tech enthusiast from Spain. I love creating innovative solutions and building dynamic, user-friendly web applications.
+Creative and detail-oriented developer focused on building modern web applications with React, Next.js, and Tailwind CSS.
 
 ---
 
-## 🚀 About Me
+## 👋 Hello, I'm Luis!
 
-- 🔭 Working on exciting new projects
-- 🌱 Learning advanced front-end frameworks and UI/UX design
-- 👯 Open to collaborating on open-source projects
-- 🤔 Interested in full-stack development, responsive web design, and AI
-- 💬 Ask me about web development, tech trends, or anything tech-related!
+I'm a Frontend Web Developer from Spain, passionate about creating dynamic and responsive web applications.
+
+💡 I specialize in building modern UIs using React, Next.js, and Tailwind CSS, and I enjoy designing clean, accessible interfaces. I'm currently learning Angular and Vue to expand my frontend toolkit, and I have experience with backend tools like Node.js, Express, and MongoDB.
+
+🔎 I'm looking to collaborate on real-world projects, grow as a full-stack developer, and contribute to open-source initiatives.
+
+---
+
+## 🔥 Highlights
+
+- 👨‍🎓 Completed academic training in Web Development with hands-on project experience.
+- 🧠 Developed multiple full UI/UX interfaces using React and Tailwind CSS.
+- 🚀 Currently learning Angular and Vue to expand frontend skills.
+- 💬 Open to internships, freelance work, and junior developer opportunities.
 
 ---
 
@@ -33,6 +40,7 @@ I'm a passionate web developer and tech enthusiast from Spain. I love creating i
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -45,33 +53,33 @@ I'm a passionate web developer and tech enthusiast from Spain. I love creating i
 
 ## 💼 Projects
 
-- **LearnZone** - A platform for students to upload notes and exam dates.
-- **[Wave-Tasker](https://wave-tasker.vercel.app)** - Web app for managing tasks and time efficiently.
-- **[React-Learn](https://react-learnisc.vercel.app)** - A learning resource for new developers to understand React features.
+- **[Wave-Tasker](https://wave-tasker.vercel.app)** – Web app for managing tasks and time efficiently.  
+  → I developed the full frontend, created the REST API, and handled MongoDB integration.
 
-Check out my GitHub repositories for more projects and let's improve our coding skills together!
+- **LearnZone** – A platform for students to upload notes and exam dates.  
+  → I worked on the frontend, focusing on component structure and responsive design with Tailwind CSS.
 
----
+- **[React-Learn](https://react-learnisc.vercel.app)** – Learning platform for exploring core React features.  
+  → I designed and built this resource to help beginners understand React patterns and state handling.
 
-## 💻 Operating Systems
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" width="24" height="24">
+> 🔍 Explore more in the repositories section!
 
 ---
 
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisnisc&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 <img src="https://wakatime.com/share/@luisnisc/0781725c-e7f8-40b7-8575-f81af8bd568b.svg" alt="WakaTime Stats" width="450" />
 
 ---
 
-
 ## 📫 Let's Connect
 
-- <a href="https://www.linkedin.com/in/luis-navascues-2b9545257/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- **Portfolio**: [Nisc-Portfolio](https://nisc-portfolio.vercel.app)
+<a href="https://www.linkedin.com/in/luis-navascues-2b9545257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/lu1snisc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+- **Portfolio**: [nisc-portfolio.vercel.app](https://nisc-portfolio.vercel.app)
 - **Email**: luisnisc30mayo2005@gmail.com
-- <a href="https://www.instagram.com/lu1snisc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 Feel free to reach out for collaboration, questions, or just to chat about tech! 😊
