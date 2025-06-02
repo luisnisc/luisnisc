@@ -1,25 +1,35 @@
-# 👨‍💻 Luis Navascués – Frontend Web Developer
+# 👨‍💻 Luis Navascués – Full-Stack Web Developer (React & Node.js)
 
-Creative and detail-oriented developer focused on building modern web applications with React, Next.js, and Tailwind CSS.
+Creative and detail-oriented developer focused on building scalable web applications with modern technologies like React, Node.js, and MongoDB.
 
 ---
 
 ## 👋 Hello, I'm Luis!
 
-I'm a Frontend Web Developer from Spain, passionate about creating dynamic and responsive web applications.
+I'm a Full-Stack Web Developer from Spain, passionate about creating dynamic, user-friendly, and performant web applications.
 
-💡 I specialize in building modern UIs using React, Next.js, and Tailwind CSS, and I enjoy designing clean, accessible interfaces. I'm currently learning Angular and Vue to expand my frontend toolkit, and I have experience with backend tools like Node.js, Express, and MongoDB.
+💡 I specialize in crafting modern UIs using React, Next.js, and Tailwind CSS, and I have strong experience with backend technologies such as Node.js, Express, and MongoDB. I enjoy bridging the gap between elegant design and robust functionality.
 
-🔎 I'm looking to collaborate on real-world projects, grow as a full-stack developer, and contribute to open-source initiatives.
+🔎 I'm looking to collaborate on real-world projects, contribute to open-source initiatives, and keep growing as a developer.
 
 ---
 
 ## 🔥 Highlights
 
-- 👨‍🎓 Completed academic training in Web Development with hands-on project experience.
-- 🧠 Developed multiple full UI/UX interfaces using React and Tailwind CSS.
-- 🚀 Currently learning Angular and Vue to expand frontend skills.
+- 👨‍🎓 Completed academic training in Web Development with hands-on full-stack project experience.
+- 🧠 Built multiple full UI/UX interfaces with React and Tailwind CSS.
+- 🔄 Developed APIs and backend services using Node.js and Express.
+- 🚀 Currently learning Angular and Vue to expand frontend capabilities.
 - 💬 Open to internships, freelance work, and junior developer opportunities.
+
+---
+
+## 🧠 Strengths as a Full-Stack Developer
+
+- Bridging frontend UX with backend architecture
+- Writing modular, maintainable code across the stack
+- Deploying apps using modern tools like Docker, Vercel, and GitHub Actions
+- Thinking product-first and solving real-world user needs
 
 ---
 
@@ -53,14 +63,14 @@ I'm a Frontend Web Developer from Spain, passionate about creating dynamic and r
 
 ## 💼 Projects
 
-- **[Wave-Tasker](https://wave-tasker.vercel.app)** – Web app for managing tasks and time efficiently.  
-  → I developed the full frontend, created the REST API, and handled MongoDB integration.
+- **[Wave-Tasker](https://wave-tasker.vercel.app)** – Full-stack web app to manage tasks and time efficiently.  
+  → Developed the frontend with React and Tailwind, created REST APIs with Express, and integrated MongoDB for data storage.
 
-- **LearnZone** – A platform for students to upload notes and exam dates.  
-  → I worked on the frontend, focusing on component structure and responsive design with Tailwind CSS.
+- **LearnZone** – Platform for students to upload notes and manage exam schedules.  
+  → Designed frontend UI and connected it to a custom backend for note handling and data persistence.
 
-- **[React-Learn](https://react-learnisc.vercel.app)** – Learning platform for exploring core React features.  
-  → I designed and built this resource to help beginners understand React patterns and state handling.
+- **[React-Learn](https://react-learnisc.vercel.app)** – Educational resource to learn core React concepts.  
+  → Designed and built the site to help beginners understand React patterns and state management.
 
 > 🔍 Explore more in the repositories section!
 
