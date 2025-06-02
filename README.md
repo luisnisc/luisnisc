@@ -62,6 +62,11 @@ I'm a Full-Stack Web Developer from Spain, passionate about creating dynamic, us
 ---
 
 ## 💼 Projects
+- - **[FlowPilot](https://www.flow-pilot.dev)** – Real-time collaborative project management web app.
+  → Built with Next.js and TailwindCSS, featuring a modular frontend and backend in a single project.
+  → Implemented secure authentication with NextAuth and real-time features using Socket.IO.
+  → Used MongoDB Atlas with Mongoose for scalable data storage and management.
+  → Includes Kanban-style task boards, user roles, project dashboards, chat integration, and responsive design.
 
 - **[Wave-Tasker](https://wave-tasker.vercel.app)** – Full-stack web app to manage tasks and time efficiently.  
   → Developed the frontend with React and Tailwind, created REST APIs with Express, and integrated MongoDB for data storage.
