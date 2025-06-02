@@ -62,7 +62,7 @@ I'm a Full-Stack Web Developer from Spain, passionate about creating dynamic, us
 ---
 
 ## 💼 Projects
-- - **[FlowPilot](https://www.flow-pilot.dev)** – Real-time collaborative project management web app.
+- **[FlowPilot](https://www.flow-pilot.dev)** – Real-time collaborative project management web app.
   → Built with Next.js and TailwindCSS, featuring a modular frontend and backend in a single project.
   → Implemented secure authentication with NextAuth and real-time features using Socket.IO.
   → Used MongoDB Atlas with Mongoose for scalable data storage and management.
